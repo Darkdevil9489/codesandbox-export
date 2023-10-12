@@ -1,2 +1,2 @@
-# codesandbox-export
+# image slider
 Created with CodeSandbox
